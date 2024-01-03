@@ -1,0 +1,21 @@
+body {
+    background-color: #282c34;
+}
+
+.App {
+    text-align: center;
+    color: #D6D6D6;
+}
+
+.button {
+    font-size: 14px;
+    background-color: #D6D6D6;
+    border: 0px;
+    margin: 3em;
+    padding: 1em 3em;
+    border-radius: 1em;
+}
+
+.button:hover {
+    background-color: #AAA;
+}
